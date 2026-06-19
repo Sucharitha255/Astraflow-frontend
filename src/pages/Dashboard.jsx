@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import EventForm from "../components/EventForm";
+import EventForm from "../components/Eventform";
 
 import ImpactCard from "../components/ImpactCard";
 
